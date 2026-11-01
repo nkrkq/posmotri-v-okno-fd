@@ -1,1 +1,1 @@
-# Посмотри в окно
+Ссылка на репозиторий: https://github.com/nkrkq/posmotri-v-okno-fd
