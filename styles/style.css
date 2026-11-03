@@ -68,7 +68,6 @@ ol {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  block-size: 56px;
 }
 
 .search-form__fieldset {
@@ -274,6 +273,7 @@ ol {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  max-inline-size: 196px;
 }
 
 .content__video-card-description {
